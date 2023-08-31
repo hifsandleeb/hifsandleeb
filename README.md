@@ -1,21 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
 ###
-
-<br clear="both">
-
 <h4 align="left">I'm Hifsa Andleeb | Software Engineer</h4>
 
 ###
-
 <h2 align="left">About me⬇</h2>
-
 ###
-
 <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
-
 <p align="left">🎍Welcome to my profile👨‍💻<br><br>🔭 I’m currently working on web development.<br>📚 I’m currently learning ReactJs & Tailwind CSS.<br>🤝 I’m looking for help with language javascript & ReactJs<br>💬 Ask me about front end developer<br> ✨ Creating bugs since ... I'm currently learning ...<br>🎯 Goals: MERN Stack Developer / Full Stack Web developer<br>🎲 Fun fact: Happy, Sad...</p>
 
 ###
